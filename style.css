@@ -446,10 +446,15 @@ section {
 }
 
 .contact .primary-btn {
-    background: #0b0b0d;
-    color: #fff;
+    color: #0b0b0d;
     border-color: #0b0b0d;
 }
+
+.contact .primary-btn:hover {
+    background: #0b0b0d;
+    color: #fff;
+}
+
 
 .contact .secondary-btn {
     color: #0b0b0d;
